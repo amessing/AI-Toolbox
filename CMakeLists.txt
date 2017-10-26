@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.0)
-
+message("Building AI Toolbox")
 project (AIToolbox)
 
 # We define a series of variables for the user. They can be combined in order
